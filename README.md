@@ -1,6 +1,6 @@
 # terraform-aws-ec2-instance-profile
 
-This fork adds terraform-1.x support, @see the `tf-1.x branch and `v1.1` releases.
+This fork adds terraform-1.x support.
 
 # Upstream Readme
 
