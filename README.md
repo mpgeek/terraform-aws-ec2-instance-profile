@@ -1,5 +1,9 @@
 # terraform-aws-ec2-instance-profile
 
+This fork adds terraform-1.x support, @see the `tf-1.x branch and `v1.1` releases.
+
+# Upstream Readme
+
 Terraform module to create an instance profile and an IAM role of an EC2 instance. IAM policies can be assigned by passing a list of policy ARNs and/or valid JSON policies as variables. Additionally, there are toggles to add default SSM or CW Agent policies.
 
 ## Usage
